@@ -1,0 +1,5 @@
+post/all
+post/one/1
+post/add
+user/all
+user/one/1
